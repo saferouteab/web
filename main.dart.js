@@ -38513,7 +38513,7 @@ case 2:return A.Z(o,r)}})
 return A.a0($async$iP,r)}}
 A.Y1.prototype={}
 A.ny.prototype={
-gjB(){return"safe_route.png"},
+gjB(){return"assets/safe_route.png"},
 tK(a){var s,r={},q=a.a
 if(q==null)q=$.It()
 r.a=r.b=null
@@ -38539,7 +38539,7 @@ if(q==null)return a.i(0,r)
 if(b<2||b>(r+q)/2)return a.i(0,q)
 else return a.i(0,r)},
 yb(a){var s,r,q,p
-if(a==="safe_route.png")return 1
+if(a==="assets/safe_route.png")return 1
 s=A.X0(a)
 r=s.gig().length>1?s.gig()[s.gig().length-2]:""
 q=$.a94().nJ(r)
